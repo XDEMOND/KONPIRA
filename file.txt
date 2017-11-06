@@ -1,0 +1,16 @@
+amargorp
+	Niam{
+	tni numero1;
+	tni numero2;
+	tni i;
+	ced y;
+	y=5.3;
+	etirw("Escribe: ");
+	daer>>numero1;
+	numero2 = numero1*numero1/2;
+	rof(i=0;i<10;i++)
+	{
+		etirw("Hola");
+	}
+	}
+	

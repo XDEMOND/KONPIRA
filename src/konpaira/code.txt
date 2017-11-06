@@ -1,0 +1,50 @@
+amargorp
+	Niam
+	{		
+		gnirts s1 = "hola";
+		rahc c1 = '3', c2;		
+		tni n1 = 0, n2 = 2, n3 = 2, x;		
+		ced d1;
+				
+		
+		rof(n2 = 0; n2 < 10; n2++ )
+		{
+			etirw(n2);
+		}
+		
+		fi( n1 >= 0 )
+		{
+			n1 = n3 / n2;
+		} 
+		fi esle(n1 < 10)
+		{ 
+			n1 = n2 - n3;
+		}
+		esle
+		{
+			etirw("Ninguna opcion");
+		}
+		
+		od
+		{
+			x = x + 1;
+			etirw(x);
+		}
+		elihw(x < 5)
+		
+		elihw(n1 <= 20)
+		{
+			n1++;
+			etirw(n1);
+		}
+		
+		hctiws(n3)
+		{
+			esac 3:
+				n1 = 2 + 2;
+			kaerb;
+			luafed:
+				n1 = 10;
+			kaerb;
+		}		
+	}

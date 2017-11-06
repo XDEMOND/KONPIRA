@@ -1,0 +1,14 @@
+amargorp
+	Niam{
+	tni numero1 = 4;
+	tni numero2 = 6;
+
+	fi(numero1<numero2)
+	{
+		etirw(numero1);	
+	}
+	esle
+	{
+		etirw(numero2);
+	}
+}
